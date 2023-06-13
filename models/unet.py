@@ -7,7 +7,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-class DoubleConv(nn.Moudle):
+class DoubleConv(nn.Module):
     def __init__(self, in_channals, out_channals, mid_channels=None):
         super(DoubleConv, self).__init__()
         if not mid_channels:
@@ -41,7 +41,7 @@ class Up(nn.Module):
     def __init__(self, in_channals, out_channals, bilinear=True):
         super(Up, self).__init__()
         if bilinear:
-            self.up = nn.Upsample(scale_factor=2, model='bilinear', align_corners=True)
+            self.up = nn.Upsample(scale_factor=2, mode='bilinear', align_corners=True)
             self.conv = DoubleConv(in_channals, out_channals, in_channals // 2)
         else:
             self.up = nn.ConvTranspose2d(in_channals, in_channals // 2, kernel_size=2, stride=2)

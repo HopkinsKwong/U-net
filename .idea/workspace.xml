@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad84d80d-6910-4fc2-a6fd-354e99bd020b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/configs/hparam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0003_test_T0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0004_test_T0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0005_test_T0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0006_test_T0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0007_test_T0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0008_test_T0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0009_test_T0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0010_test_T0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0011_test_T0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0012_test_T0012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0013_test_T0013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0014_test_T0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0015_test_T0015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0016_test_T0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0017_test_T0017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0018_test_T0018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0019_test_T0019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0020_test_T0021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0021_test_T0022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0022_test_T0023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0023_test_T0024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0024_test_T0025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/0025_test_T0026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0003_test_T0003.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0004_test_T0004.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0005_test_T0005.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0006_test_T0006.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0007_test_T0007.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0008_test_T0008.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0009_test_T0009.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0010_test_T0010.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0011_test_T0011.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0012_test_T0012.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0013_test_T0013.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0014_test_T0014.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0015_test_T0015.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0016_test_T0016.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0017_test_T0017.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0018_test_T0018.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0019_test_T0019.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0020_test_T0235.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0021_test_T0236.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0022_test_T0237.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0023_test_T0238.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0024_test_T0239.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/labels/0025_test_T0240.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0001_val_V0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0002_val_V0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0003_val_V0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0004_val_V0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0005_val_V0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0006_val_V0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0007_val_V0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0008_val_V0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0009_val_V0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0010_val_V0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0011_val_V0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0012_val_V0012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0013_val_V0013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0014_val_V0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0015_val_V0015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0016_val_V0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0017_val_V0017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0018_val_V0018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0019_val_V0019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0020_val_V0021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0021_val_V0022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0022_val_V0023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0023_val_V0024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0024_val_V0025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/0025_val_V0026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0001_val_V0001.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0002_val_V0002.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0003_val_V0003.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0004_val_V0004.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0005_val_V0005.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0006_val_V0006.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0007_val_V0007.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0008_val_V0008.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0009_val_V0009.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0010_val_V0010.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0011_val_V0011.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0012_val_V0012.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0013_val_V0013.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0014_val_V0014.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0015_val_V0015.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0016_val_V0016.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0017_val_V0017.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0018_val_V0018.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0019_val_V0019.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0020_val_V0021.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0021_val_V0022.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0022_val_V0023.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0023_val_V0024.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0024_val_V0025.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/labels/0025_val_V0026.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0001_val_V0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0002_val_V0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0003_val_V0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0004_val_V0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0005_val_V0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0006_val_V0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0007_val_V0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0008_val_V0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0009_val_V0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0010_val_V0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0011_val_V0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0012_val_V0012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0013_val_V0013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0014_val_V0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0015_val_V0015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0016_val_V0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0017_val_V0017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0018_val_V0018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0019_val_V0019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0020_val_V0021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0021_val_V0022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0022_val_V0023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0023_val_V0024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0024_val_V0025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/images/0025_val_V0026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0001_val_V0001.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0002_val_V0002.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0003_val_V0003.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0004_val_V0004.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0005_val_V0005.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0006_val_V0006.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0007_val_V0007.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0008_val_V0008.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0009_val_V0009.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0010_val_V0010.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0011_val_V0011.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0012_val_V0012.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0013_val_V0013.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0014_val_V0014.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0015_val_V0015.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0016_val_V0016.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0017_val_V0017.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0018_val_V0018.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0019_val_V0019.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0020_val_V0021.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0021_val_V0022.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0022_val_V0023.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0023_val_V0024.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0024_val_V0025.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val/labels/0025_val_V0026.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/unet.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/unet.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QmQoGHVbJrqbuU5TozXZg4EKa1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="U-net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="U-net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="U-net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/unet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.unet" />
+        <item itemvalue="Python.datasets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad84d80d-6910-4fc2-a6fd-354e99bd020b" name="Default Changelist" comment="" />
+      <created>1685956449218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685956449218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1685956958497">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="398" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1685956958497" />
+    <state x="729" y="302" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1686122932676">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="302" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1686122932676" />
+    <state width="1825" height="307" key="GridCell.Tab.0.bottom" timestamp="1686303548884">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="307" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1686303548884" />
+    <state width="1825" height="307" key="GridCell.Tab.0.center" timestamp="1686303548883">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="307" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1686303548883" />
+    <state width="1825" height="307" key="GridCell.Tab.0.left" timestamp="1686303548883">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="307" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1686303548883" />
+    <state width="1825" height="307" key="GridCell.Tab.0.right" timestamp="1686303548884">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="307" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1686303548884" />
+    <state width="1825" height="332" key="GridCell.Tab.1.bottom" timestamp="1686195693578">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="332" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1686195693578" />
+    <state width="1825" height="332" key="GridCell.Tab.1.center" timestamp="1686195693577">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="332" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1686195693577" />
+    <state width="1825" height="332" key="GridCell.Tab.1.left" timestamp="1686195693577">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="332" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1686195693577" />
+    <state width="1825" height="332" key="GridCell.Tab.1.right" timestamp="1686195693578">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="332" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1686195693578" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1686305037309">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1686305037309" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="train_epoch_loss" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
