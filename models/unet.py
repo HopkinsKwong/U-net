@@ -5,6 +5,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from utils.helper import initialize_weights
 
 
 class DoubleConv(nn.Module):
@@ -85,6 +86,7 @@ class UNet(nn.Module):
         self.up3 = Up(256, 128 // factor, bilinear)
         self.up4 = Up(128,64,bilinear)
         self.out_conv =OutConv(64,n_classes)
+        initialize_weights(self)
 
     def forward(self,x):
         x1 =self.in_conv(x)
